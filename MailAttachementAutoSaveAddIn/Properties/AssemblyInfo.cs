@@ -9,9 +9,9 @@ using System.Security;
 [assembly: AssemblyTitle("MailAttachementAutoSaveAddIn")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("The Gray Apps")]
 [assembly: AssemblyProduct("MailAttachementAutoSaveAddIn")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
+[assembly: AssemblyCopyright("Copyright © The Gray Apps 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -35,3 +35,4 @@ C:\Users\cmohanty\Source\Repos\OutlookAddIn-AutoDownloadAttachment\MailAttacheme
 C:\Users\cmohanty\Source\Repos\OutlookAddIn-AutoDownloadAttachment\MailAttachementAutoSaveAddIn\obj\Debug\MailAttachmentAutoSaveAddIn.csproj.GenerateResource.Cache
 C:\Users\cmohanty\Source\Repos\OutlookAddIn-AutoDownloadAttachment\MailAttachementAutoSaveAddIn\obj\Debug\MailAttachementAutoSaveAddIn.dll
 C:\Users\cmohanty\Source\Repos\OutlookAddIn-AutoDownloadAttachment\MailAttachementAutoSaveAddIn\obj\Debug\MailAttachementAutoSaveAddIn.pdb
+C:\Users\cmohanty\Source\Repos\OutlookAddIn-AutoDownloadAttachment\MailAttachementAutoSaveAddIn\obj\Debug\MailAttachmentAutoSaveAddIn.csprojResolveAssemblyReference.cache
